@@ -8,4 +8,9 @@ public class HomePage {
     // navigation menu
 
     // test
+
+
+    // more things for home page
+
+    // added logo
 }
