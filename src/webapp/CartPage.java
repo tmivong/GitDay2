@@ -7,4 +7,8 @@ public class CartPage {
     // total
 
     // promo code
+
+    // add to Cart
+
+    // deals
 }
