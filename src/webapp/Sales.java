@@ -12,4 +12,6 @@ public class Sales {
 
 
     // more sales added
+
+    // added more
 }
